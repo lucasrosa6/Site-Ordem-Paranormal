@@ -1,0 +1,44 @@
+.cabecalho{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.cabecalho-imagem{
+    width: 20%;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    padding: 24px;
+    font-size: 24px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.simbolo-ritual{
+    width: 25%;
+}
+
+.ordemparanormal{
+    background-image: linear-gradient(#000000, #8d8d8d);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.ordem-conteudo{
+    width: 35%;
+}
+
+.titulo-ordem{
+    padding: 24px 0;
+}
+
+
