@@ -60,4 +60,10 @@
     background-color: black;
 }
 
-
+.red{
+    color: greenyellow;
+    text-align: center;
+    background-color: black;
+    padding: 2%;
+    font-size: 30px;
+}
