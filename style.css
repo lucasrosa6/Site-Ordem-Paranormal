@@ -5,6 +5,10 @@
     justify-content: space-around;
 }
 
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
 .cabecalho-imagem{
     width: 20%;
 }
@@ -35,6 +39,7 @@
 
 .ordem-conteudo{
     width: 35%;
+    font-size: 1.1em;
 }
 
 .titulo-ordem{
@@ -61,25 +66,15 @@
 }
 
 .green{
-    color: rgb(255, 255, 255);
+    color: rgb(187, 255, 175);
     text-align: center;
     background-color: black;
     padding: 2%;
     font-size: 30px;
 }
 
-.red{
-    color: rgb(255, 255, 255);
+footer{
+    padding: 15px;
+    background-color: #000000;
     text-align: center;
-    background-color: rgb(133, 0, 0);
-    padding: 2%;
-    font-size: 30px;
-}
-
-.personagens-mortos-titulo{
-    text-align: center;
-    padding: 50px 0;
-    background-image: linear-gradient(#000000, rgb(133, 0, 0));
-    color: white;
-    font-size: 40px;
 }
